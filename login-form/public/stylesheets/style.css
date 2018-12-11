@@ -1,0 +1,30 @@
+body{
+    background-color: tomato;
+}
+.center{
+    
+    width: auto;
+    height: auto;
+    margin: 220px 440px;
+    
+   
+}
+.child-tab{
+    padding: 10px 10px;
+}
+@media only screen and (max-width: 600px) {
+    .center{
+       
+        width: auto;
+        height: auto;
+        margin: 100px 150px;
+        
+       
+    }
+  }
+
+
+
+
+
+ 
